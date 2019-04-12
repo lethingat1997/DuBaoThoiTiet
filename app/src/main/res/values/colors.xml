@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mauxanh">#920bc993</color>
+    <color name="mautim">#646eb4fa</color>
+    <color name="mau">#8b2989e9</color>
+    <color name="maunbh">#85f2ea07</color>
+    <color name="mauqư">#850be208</color>
+    <color name="mauq">#85f8faf8</color>
+</resources>
